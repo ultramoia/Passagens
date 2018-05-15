@@ -1,0 +1,11 @@
+C:\Projetos\WCF\Passagens\Passagens\Hosting\bin\Debug\Hosting.exe.config
+C:\Projetos\WCF\Passagens\Passagens\Hosting\bin\Debug\Hosting.exe
+C:\Projetos\WCF\Passagens\Passagens\Hosting\bin\Debug\Hosting.pdb
+C:\Projetos\WCF\Passagens\Passagens\Hosting\bin\Debug\Passagens.dll
+C:\Projetos\WCF\Passagens\Passagens\Hosting\bin\Debug\Passagens.pdb
+C:\Projetos\WCF\Passagens\Passagens\Hosting\bin\Debug\Passagens.dll.config
+C:\Projetos\WCF\Passagens\Passagens\Hosting\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+C:\Projetos\WCF\Passagens\Passagens\Hosting\obj\Debug\Hosting.csproj.CoreCompileInputs.cache
+C:\Projetos\WCF\Passagens\Passagens\Hosting\obj\Debug\Hosting.csproj.CopyComplete
+C:\Projetos\WCF\Passagens\Passagens\Hosting\obj\Debug\Hosting.exe
+C:\Projetos\WCF\Passagens\Passagens\Hosting\obj\Debug\Hosting.pdb

@@ -1,0 +1,7 @@
+C:\Projetos\WCF\Passagens\Passagens\Passagens\bin\Debug\Passagens.dll.config
+C:\Projetos\WCF\Passagens\Passagens\Passagens\bin\Debug\Passagens.dll
+C:\Projetos\WCF\Passagens\Passagens\Passagens\bin\Debug\Passagens.pdb
+C:\Projetos\WCF\Passagens\Passagens\Passagens\obj\Debug\Passagens.csproj.CoreCompileInputs.cache
+C:\Projetos\WCF\Passagens\Passagens\Passagens\obj\Debug\Passagens.dll
+C:\Projetos\WCF\Passagens\Passagens\Passagens\obj\Debug\Passagens.pdb
+C:\Projetos\WCF\Passagens\Passagens\Passagens\obj\Debug\Passagens.csprojResolveAssemblyReference.cache
